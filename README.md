@@ -24,20 +24,6 @@
 
 ---
 
-## 📊 Performance Summary
-
-| Parameter | Lower Band (Sub-6 GHz 5G NR n79) | Upper Band (5-GHz WiFi / WLAN) |
-| :--- | :---: | :---: |
-| **Operating Frequency** | $4.62 - 4.75\text{ GHz}$ ($130\text{ MHz}$) | $5.50 - 5.72\text{ GHz}$ ($220\text{ MHz}$) |
-| **Fractional Bandwidth** | $2.8\%$ | $3.9\%$ |
-| **Port Isolation ($|S_{21}|$)** | $> 29\text{ dB}$ (Peak $43\text{ dB}$) | $> 25\text{ dB}$ (Peak $33\text{ dB}$) |
-| **Peak Realized Gain** | $4.8 - 5.4\text{ dBi}$ | $5.2 - 6.8\text{ dBi}$ |
-| **Radiation Efficiency** | $\approx 90\%$ | $\approx 90\%$ |
-| **Envelope Correlation Coeff. (ECC)** | $< 0.005$ | $< 0.005$ |
-| **Channel Capacity Loss (CCL)** | $< 0.4\text{ bits/s/Hz}$ | $< 0.4\text{ bits/s/Hz}$ |
-
----
-
 ## 📁 Repository Structure & Data Mapping
 
 All figures and numerical evaluations presented in the paper can be reproduced using the datasets and model files in this repository:

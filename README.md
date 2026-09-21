@@ -20,7 +20,7 @@
 - **Quyen Nguyen-Xuan** – *School of Electrical and Electronic Engineering, Hanoi University of Science and Technology (HUST), Hanoi, Vietnam*  
   Email: `quyen.nguyenxuan@hust.edu.vn`
 - **Cuong Do-Manh** *(Corresponding Author)* – *PHENIKAA School of Engineering, PHENIKAA University, Hanoi 12116, Vietnam*  
-  Email: `duong.domanh@phenikaa-uni.edu.vn`
+  Email: `cuong.domanh@phenikaa-uni.edu.vn`
 
 ---
 
